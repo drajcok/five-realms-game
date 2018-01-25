@@ -1,0 +1,32 @@
+{
+   "battleZones": [
+      {
+         "zoneID": 1,
+         "houseID": 1,
+         "name": "Clarendon",
+         "description": "A description for this location",
+         "image": "some/url/to/a/small/picture"
+      },
+      {
+         "zoneID": 2,
+         "houseID": 1,
+         "name": "River R",
+         "description": "A description for this River R",
+         "image": "some/url/to/a/small/picture"
+      },
+      {
+         "zoneID": 3,
+         "houseID": 2,
+         "name": "City 2",
+         "description": "A description for this City 2",
+         "image": "some/url/to/a/small/picture"
+      },
+      {
+         "zoneID": 4,
+         "houseID": 3,
+         "name": "City 3",
+         "description": "A description for this City 3",
+         "image": "some/url/to/a/small/picture"
+      }
+   ]
+}
